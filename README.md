@@ -1,6 +1,6 @@
 # 🌿 Online Plant Nursery Management System
 
-This is a full-stack backend application built using **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **Swagger**. It enables efficient management of customers, orders, plants, seeds, and planters in an online nursery store.
+This is a backend application built using **Spring Boot**, **Spring Data JPA**, **Hibernate**, and **Swagger**. It enables efficient management of customers, orders, plants, seeds, and planters in an online nursery store.
 
 ---
 
