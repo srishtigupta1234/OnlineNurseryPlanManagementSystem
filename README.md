@@ -31,6 +31,8 @@ This is a backend application built using **Spring Boot**, **Spring Data JPA**, 
 
 ## 📁 Project Structure
 
+```bash
+
 src/
 └── main/
 ├── java/
@@ -43,13 +45,14 @@ src/
 │ └── OnlinePlantNurseryApplication.java
 └── resources/
 ├── application.properties
-└── data.sql / schema.sql (optional)
+```
 
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/online-plant-nursery.git
+   ```
    
 2. Import in STS/Eclipse as a Maven project
 
